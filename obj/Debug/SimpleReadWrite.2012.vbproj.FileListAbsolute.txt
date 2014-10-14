@@ -1,0 +1,31 @@
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\DotNET4.5\SimpleReadWrite\vb\bin\SimpleReadWrite.exe
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\DotNET4.5\SimpleReadWrite\vb\bin\SimpleReadWrite.pdb
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\DotNET4.5\SimpleReadWrite\vb\bin\NationalInstruments.Common.Native.dll
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\DotNET4.5\SimpleReadWrite\vb\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\DotNET4.5\SimpleReadWrite\vb\obj\Debug\SimpleReadWrite.2012.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\DotNET4.5\SimpleReadWrite\vb\obj\Debug\SimpleReadWrite.exe
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\DotNET4.5\SimpleReadWrite\vb\obj\Debug\SimpleReadWrite.pdb
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\obj\Debug\SimpleReadWrite.exe
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\obj\Debug\SimpleReadWrite.pdb
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\obj\Debug\SimpleReadWrite.2012.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\obj\Debug\SimpleReadWrite.exe.licenses
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\bin\SimpleReadWrite.exe.config
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\bin\SimpleReadWrite.exe
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\bin\SimpleReadWrite.pdb
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\bin\TeeChart.dll
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\bin\NationalInstruments.Common.Native.dll
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\bin\TeeChart.xml
+C:\Users\Public\Documents\National Instruments\NI-488.2\Examples\vb\obj\Debug\SimpleReadWrite.2012.vbprojResolveAssemblyReference.cache
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\bin\SimpleReadWrite.exe.config
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\obj\Debug\SimpleReadWrite.exe
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\obj\Debug\SimpleReadWrite.pdb
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\bin\SimpleReadWrite.exe
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\bin\SimpleReadWrite.pdb
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\bin\TeeChart.dll
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\bin\NationalInstruments.Common.Native.dll
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\bin\TeeChart.xml
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\obj\Debug\SimpleReadWrite.2012.vbprojResolveAssemblyReference.cache
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\obj\Debug\SimpleReadWrite.2012.vbproj.GenerateResource.Cache
+C:\Users\dmcmillan\Documents\Visual Studio 2013\Projects\vb\obj\Debug\SimpleReadWrite.exe.licenses
